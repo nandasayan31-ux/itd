@@ -3,5 +3,5 @@ def odd(a):
 i=int(input("Enter a number: "))
 print(odd(i))
 # for odd checking, you can use the function
-
+# 2nd try
 # dont open again
